@@ -1,14 +1,14 @@
 /**************************************************************
         Pontificia Universidad Javeriana
         Autor: Gabriel Riaño
-        Fecha: Abril 2024
+        Fecha: 7 de Abril 2024
         Materia: Sistemas Operativos
         Tema: Taller de procesos y arreglos
         Fichero: Programa principal para la suma de elementes
 		 de arreglos de enteros
         Objetivo: A partir de los ficheros dados se realiza la
 		  la suma de sus elementos mediante el uso de 
-		  procesos con la funcion fork()
+		  procesos con la funcion fork() y pipe()
 ****************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
