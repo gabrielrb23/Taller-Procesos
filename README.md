@@ -16,4 +16,5 @@ Este programa utiliza múltiples procesos creados con `fork()` y comunicación m
 ## ⚙️ Compilación
 
 make
+
 ./taller_procesos N1 archivo00 N2 archivo01
