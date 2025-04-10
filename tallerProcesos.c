@@ -1,6 +1,6 @@
 /**************************************************************
         Pontificia Universidad Javeriana
-        Autores: Gabriel Riaño y Dary Palacios
+        Autor: Gabriel Riaño y Dary Palacios
         Fecha: 7 de Abril 2024
         Materia: Sistemas Operativos
         Tema: Taller de procesos y arreglos
@@ -8,7 +8,7 @@
 		 de arreglos de enteros
         Objetivo: A partir de los ficheros dados se realiza la
 		  la suma de sus elementos mediante el uso de 
-		  procesos con la funcion fork() y pipe()
+		  procesos con la funcion fork()
 ****************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
