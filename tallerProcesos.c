@@ -1,6 +1,6 @@
 /**************************************************************
         Pontificia Universidad Javeriana
-        Autor: Gabriel Riaño
+        Autores: Gabriel Riaño y Dary Palacios
         Fecha: 7 de Abril 2024
         Materia: Sistemas Operativos
         Tema: Taller de procesos y arreglos
